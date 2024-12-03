@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nizam Chaudhary</h1>
 <h3 align="center">A Passionate Android And NodeJs backend Developer.</h3>
 
-- 🔭 I’m currently working on [Olpgas](https://github.com/Nizam-Chaudhary/OLPGAS)
+- 🔭 I’m currently working on [Passman](https://github.com/Nizam-Chaudhary/passman-fe)
 
 - 🌱 I’m currently learning **NodeJs, ReactJs, MongoDB, PostgreSQL**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **ChaudharyNizam10@gmail.com**
 
