@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ChaudharyNizam10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L5CEw_8827zjc4CVi494rBHz5bEe833K/view?usp=sharing](https://drive.google.com/file/d/1L5CEw_8827zjc4CVi494rBHz5bEe833K/view?usp=sharing)
+- 📄 Know about my experiences [Resumee](https://drive.google.com/file/d/1L5CEw_8827zjc4CVi494rBHz5bEe833K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
