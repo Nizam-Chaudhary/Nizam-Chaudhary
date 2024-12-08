@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizam Chaudhary</h1>
-<h3 align="center">A Passionate Android And NodeJs backend Developer.</h3>
+<h3 align="center">A Passionate Software Developer.</h3>
 
 - 🔭 I’m currently working on [Passman](https://github.com/Nizam-Chaudhary/passman-fe)
 
