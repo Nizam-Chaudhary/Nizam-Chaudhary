@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nizam Chaudhary</h1>
 <h3 align="center">A Passionate Software Developer.</h3>
 
-- 🔭 I’m currently working on [Passman](https://github.com/Nizam-Chaudhary/passman-fe)
+- 🔭 I’m currently working on [Passman](https://passman.live)
 
-- 🌱 I’m currently learning **NodeJs, ReactJs, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **Dev Ops**
 
 - 💬 Ask me about **Web Dev**
 
