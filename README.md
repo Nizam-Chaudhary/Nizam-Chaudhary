@@ -1,21 +1,75 @@
-<h1 align="center">Hi 👋, I'm Nizam Chaudhary</h1>
-<h3 align="center">A Passionate Software Developer.</h3>
+# Nizam Chaudhary
 
-- 🔭 I’m currently working on [Passman](https://passman.live)
+**Software Engineer**  
+Building scalable backend systems and modern web applications.  
+Currently focused on improving system design, DevOps, and production-ready architectures.
 
-- 🌱 I’m currently learning **Dev Ops**
-
-- 💬 Ask me about **Web Dev**
-
-- 📫 How to reach me **ChaudharyNizam10@gmail.com**
-
-- 📄 Know about my experiences [Resumee](https://drive.google.com/file/d/1L5CEw_8827zjc4CVi494rBHz5bEe833K/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nizam-chaudhary-b092202b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nizam-chaudhary-b092202b0" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Nizam-Chaudhary">
+    <img src="https://img.shields.io/badge/GitHub-Nizam--Chaudhary-181717?logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/nizam-chaudhary-b092202b0">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/iM_Nizam10">
+    <img src="https://img.shields.io/badge/Twitter-@iM__Nizam10-1DA1F2?logo=twitter" />
+  </a>
+  <a href="https://discord.com/users/1459481564051279893">
+    <img src="https://img.shields.io/badge/Discord-nizam__chaudhary-5865F2?logo=discord" />
+  </a>
+  <a href="mailto:ChaudharyNizam10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ChaudharyNizam10@gmail.com-EA4335?logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Effect-000000" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElysiaJS-4F46E5" />
+  <img src="https://img.shields.io/badge/Hono-E36002logo=hono&logoColor=orange" />
+</p>
+
+### Databases & Messaging
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white" />
+</p>
+
+---
+
+## Resume
+📄 **[RESUMEE.md](./RESUMEE.md)**
