@@ -92,3 +92,9 @@
 
 * **Bachelor of Computer Applications (BCA)**
 * VNSGU, Class of 2024 | **GPA: 9.3/10.0**
+
+--- 
+
+### 📄 PDF
+
+* **[RESUME.pdf](./RESUME.pdf)**

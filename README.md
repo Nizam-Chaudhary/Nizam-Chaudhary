@@ -61,4 +61,4 @@ Currently focused on improving system design, DevOps, and production-ready archi
 ---
 
 ## Resume
-📄 **[RESUME.md](./RESUME.md)**
+📄 **[RESUME.md](./RESUME.md)** or **[RESUME.pdf](./RESUME.pdf)**
